@@ -1,4 +1,4 @@
-# :books: [Fake banknote detection using ML](https://openclassrooms.com/fr/paths/65/projects/147/assignment)
+# :euro: [Fake banknote detection using ML](https://openclassrooms.com/fr/paths/65/projects/147/assignment)
 
 ### :point_right:[Notebook](https://github.com/Aciago/Fake_banknote_detection/blob/main/P6_v4.ipynb):point_left:
 
