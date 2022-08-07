@@ -9,7 +9,7 @@
 - build, train and apply Machine Learning algorithms
 
 ### :briefcase: Scenario:
-We work for a govermental agency that specializes at counterfeiting. Our mission is to create a counterfeit detection algorithm.
+We work for a govermental agency that fights counterfeiting. Our mission is to create a counterfeit detection algorithm.
 
 ### :package: Dataset:
 Our [dataset](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/notes.csv) contains geometric characteristics of banknotes. For each of them, we know:
